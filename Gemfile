@@ -15,7 +15,7 @@ gem 'puma'
 # ORM
 gem 'pg'
 
-gem "devise", "~> 3.4.0"
+gem "devise", "~> 4.7.1"
 gem 'sendgrid', '~> 1.2.0' # Emails
 
 gem 'simple_form', "~> 3.1.0"
